@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E9176176B8C7EFE61C67773866F1541EC502DF14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E9176176B8C7EFE61C67773866F1541EC502DF14" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1D3465F8-C437-40BA-9F14-037AFA254C10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E9176176B8C7EFE61C67773866F1541EC502DF14" : "jsonTocsvConverter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JSON_TO_CSV_Converter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JSON_TO_CSV_Converter\/JSON_TO_CSV_Converter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:hameedsrepo\/jsonTocsvConverter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9176176B8C7EFE61C67773866F1541EC502DF14"
+    }
+  ]
+}
